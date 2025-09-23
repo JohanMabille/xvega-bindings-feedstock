@@ -9,6 +9,8 @@ Package license: BSD-3-Clause
 
 Summary: xvega bindings for xeus
 
+Development: https://github.com/jupyter-xeus/xvega-bindings/
+
 Documentation: https://xeus-sqlite.readthedocs.io/en/latest/xvega_magic.html
 
 Current build status
